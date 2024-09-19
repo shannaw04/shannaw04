@@ -7,4 +7,3 @@ I enjoy solving puzzles and love the challenge of finding efficient and creative
 #### Projects:
 * [Color Sort!](https://github.com/shannaw04/color_sort)<br>
  A series of ongoing projects to learn video game, web, and mobile app development with the classic 2D color sorting game.<Br>
- Aiming to have a fully functional, cross-platform Color Sort mobile app completed by the end of August 2024.
